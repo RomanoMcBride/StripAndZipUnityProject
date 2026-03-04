@@ -1,4 +1,4 @@
-This script can be used to add an action to the Finder context menu that zips a Unity project without generated folders like /Library (which often makes most of the size of a project). This allows easy sharing of a Unity project at a smaller size than sharing the entire project folder.
+Adds a Finder context menu action to zip Unity projects without generated folders like /Library (which often account for most of the project size).
 
 <img width="467" height="457" alt="screenshot_finder" src="https://github.com/user-attachments/assets/c3b8536f-a4a5-47e9-8a7e-48dfeae06e65" />
 
