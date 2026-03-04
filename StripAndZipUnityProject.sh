@@ -17,6 +17,7 @@ do
         -x "*/.vscode/*" -x ".vscode/*" \
         -x "*/.idea/*" -x ".idea/*" \
         -x "*/UserSettings/*" -x "UserSettings/*" \
+        -x "*/Recordings/*" -x "Recordings/*" \
         -x "*/.plastic/*" -x ".plastic/*" \
         -x "*.csproj" -x "*.sln" -x "*.userprefs" \
         -x "*.suo" -x "*.user" -x ".DS_Store"
