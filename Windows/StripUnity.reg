@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\directory\shell\Strip and Zip Unity Project]
+
+[HKEY_CURRENT_USER\SOFTWARE\Classes\directory\shell\Strip and Zip Unity Project\command]
+@="powershell.exe -NoProfile -ExecutionPolicy Bypass -Command \"& \"$HOME\\tools\\StripAndZipUnityProject.ps1\" \"%V\"\""
