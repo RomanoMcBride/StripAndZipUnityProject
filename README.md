@@ -9,4 +9,4 @@ The project contains different scripts, one for each platform.
 
 - [Mac](/Mac/SETUP_MAC.md)
 - [Windows](/Windows/SETUP_WIN.md)
-- Linux: the .sh in the mac folder can be run from the command line, provided that zip is installed.
+- [Ubuntu](/Ubuntu/SETUP_UBUNTU.md)
