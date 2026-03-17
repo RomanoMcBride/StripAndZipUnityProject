@@ -5,7 +5,7 @@ in terminal, go to the folder where you downloaded the script StripAndZipUnityPr
 and then:
 
 ```
-cp StripAndZipUnityProject.sh to ~/.local/share/nautilus/scripts/StripAndZipUnityProject.sh
+cp StripAndZipUnityProject.sh ~/.local/share/nautilus/scripts/StripAndZipUnityProject.sh
 chmod +x ~/.local/share/nautilus/scripts/StripAndZipUnityProject.sh
 ```
 
