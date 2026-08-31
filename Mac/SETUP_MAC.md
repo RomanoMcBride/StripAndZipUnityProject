@@ -13,3 +13,11 @@
 The option should now appear under "quick actions" in the context menu of any folder in Finder.
 
 <img width="467" height="457" alt="screenshot_finder" src="https://github.com/user-attachments/assets/c3b8536f-a4a5-47e9-8a7e-48dfeae06e65" />
+
+## If the option disappears
+
+Sometimes (e.g. after a macOS Update) the option disappears from the context menu. In this case:
+
+- In finder, go to ~/Library/Services/
+- drag the action to the Desktop
+- open the action from the Desktop and select "install" 
